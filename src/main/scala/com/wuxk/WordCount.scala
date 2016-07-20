@@ -5,6 +5,6 @@ package com.wuxk
  */
 object WordCount {
   def main(args: Array[String]) {
-    println("hello world ~")
+    println("hello world3333333 ~")
   }
 }
